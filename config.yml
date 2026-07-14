@@ -1,0 +1,10 @@
+calendars:
+  - url: https://cloud.tristech.de/remote.php/dav/calendars/tristan/
+    id: timeboxing
+    username: tristan
+    password: ****
+    sync_cutoff: "2024-06-24"
+    org_files:
+      - /home/tristan/org/2 PAS/23 Agenda/projects.org
+      - /home/tristan/org/2 PAS/23 Agenda/personal.org
+      - /home/tristan/org/2 PAS/25 Archive

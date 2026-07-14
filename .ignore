@@ -1,4 +1,7 @@
-venv/
+.venv/
 *.pyc
 build/
 dist/
+.mypy_cache/
+.ruff_cache/
+.git/
